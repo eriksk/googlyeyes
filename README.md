@@ -9,6 +9,7 @@
 * Supports scaling
 * Responds to parent movement
 * Responds to parent rotation
+* Does *NOT* use physics like joints and stuff
 * Tweak following parameters:
     * Bounciness
     * Speed of eye movement
