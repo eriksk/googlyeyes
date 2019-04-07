@@ -1,6 +1,6 @@
 # Googly Eyes for Unity
 
-![https://raw.githubusercontent.com/eriksk/googlyeyes/master/preview.gif](Preview)
+![Preview](https://raw.githubusercontent.com/eriksk/googlyeyes/master/preview.gif)
 
 ## Features
 
