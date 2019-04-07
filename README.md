@@ -1,5 +1,7 @@
 # Googly Eyes for Unity
 
+[Download Unity Package](https://github.com/eriksk/googlyeyes/raw/master/UnityPackages/GooglyEyes.1.0.0.unitypackage)
+
 ![Preview](https://raw.githubusercontent.com/eriksk/googlyeyes/master/preview.gif)
 
 ## Features
